@@ -61,5 +61,6 @@ export const skills = [
   "C",
   "PHP",
   "Laravel",
+  "Django",
   
 ];
