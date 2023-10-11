@@ -16,12 +16,12 @@ export const projects = [
     link: "https://github.com/salman484/DeteksiTakbir",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Project Portfolio",
+    subtitle: "React js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Ini adalah website portfolio saya terdapat berbagai macam informasi tentang diri saya",
     image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/salman484/MyPortfolio",
   },
   {
     title: "Epic Todo App",
